@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms in Java**
 
-- 🔭 I’m currently working at Daphnis Labs as Frontend Developer.
+- 🔭 I’m currently working at MAQ Software as Software Engineer.
 
 - 👯 I’m looking to collaborate on Full Stack Development projects.
 
@@ -36,8 +36,8 @@
 ## Languages and Tools
 
 - Languages&nbsp;&nbsp;:&nbsp;&nbsp;Python, JavaScript, TypeScript, C++
-- Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;React js, Redux, Context Api, Next js, React Native, Tailwind CSS, Html, CSS
-- Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Node js, Express, Mongo Db, Rest API, Graph Ql
+- Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;React.js, Redux, Context Api, Next.js, ReactNative, Tailwind CSS, Html, CSS
+- Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Node.js, Express, MongoDb, RestAPI, GraphQl
 - Other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Data Structures & Algorithms, Data Science, Data Analysis, Web Scraping, Post Man, Git Hub
 
 
